@@ -4,7 +4,7 @@ Kinjon Saha	1001537868
 Sugam Banskota	1001552420
 Hardik Patel	1001533766
 Utsav Dhungana	1001665811
-Bipul Karki	1001661413
+Bipul Karki	
 
 
 ReadMe!
